@@ -1,4 +1,4 @@
- {
+[ {
     "date": "03-07-2019",
     "bankCode": "BBBB",
     "inputSource": "LLL",
@@ -69,4 +69,4 @@
     "trnType": "???",
     "glCostCenter": "8881116",
     "userID": "USERXX1",
-    "trnDesc": "DESCXXX - 00012" }
+    "trnDesc": "DESCXXX - 00012" }]
