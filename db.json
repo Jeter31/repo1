@@ -22,10 +22,4 @@
     "bankCode": "BBBB",
     "inputSource": "LLL",
     "dbCrInd": "CR",
-    "trnAmt": "5,000.00"},
- {
-    "date": "03-07-2019",
-    "bankCode": "BBBB",
-    "inputSource": "CCC",
-    "dbCrInd": "DB",
-    "trnAmt": "9,000.00"} ]
+    "trnAmt": "5,000.00"} ]
