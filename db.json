@@ -1,21 +1,17 @@
-{
-    "date": "03-07-2019",
+{"date": "03-07-2019",
     "bankCode": "BBBB",
     "inputSource": "LLL",
     "dbCrInd": "DB",
     "trnAmt": "125,000.00"
     },
- {
-    "date": "03-07-2019",
+ {"date": "03-07-2019",
     "bankCode": "BBBB",
     "inputSource": "LLL",
     "dbCrInd": "DB",
     "trnAmt": "125,000.00"
      }, 
- {
-    "date": "03-07-2019",
+ {"date": "03-07-2019",
     "bankCode": "BBBB",
     "inputSource": "CCC",
     "dbCrInd": "DB",
-    "trnAmt": "9,000.00"
-     }
+    "trnAmt": "9,000.00"}
